@@ -56,4 +56,6 @@ JLinkLog.txt
 *.siwork
 *.snippets.xml
 *.bookmarks.xml
+Stm32f103/Project/
+Stm32f103/ProjectOutput/
 
